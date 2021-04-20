@@ -1,0 +1,7 @@
+enabled: true
+names:
+  - Kubernetes
+  - Docker
+  - Git
+  - Linux Kernel
+  - Others
