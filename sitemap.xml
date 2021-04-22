@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://cheatsheets.kernfunny.org/</loc></url>
+<url><loc>https://cheatsheets.kernfunny.org/cheatsheet-styles</loc></url>
+<url><loc>https://cheatsheets.kernfunny.org/docker-compose</loc></url>
+<url><loc>https://cheatsheets.kernfunny.org/docker</loc></url>
+<url><loc>https://cheatsheets.kernfunny.org/dockerfile</loc></url>
+<url><loc>https://cheatsheets.kernfunny.org/git-branch</loc></url>
+<url><loc>https://cheatsheets.kernfunny.org/git-tricks</loc></url>
+<url><loc>https://cheatsheets.kernfunny.org/kubernetes-kubectl</loc></url>
+<url><loc>https://cheatsheets.kernfunny.org/kubernetes-tricks</loc></url>
+<url><loc>https://cheatsheets.kernfunny.org/react</loc></url>
+<url><loc>https://cheatsheets.kernfunny.org/assets/css/style.css</loc></url>
+<url><loc>https://cheatsheets.kernfunny.org/redirects.json</loc></url>
+
+</urlset>
+
