@@ -10,15 +10,9 @@
 %}
 {% include 2017/head.html critical='home' %}
 
-</head><body>
+</head><body class='UseCompactHeader HighlightPubFirstLine'>
 
 {% include 2017/top-nav.html page=page is_home=true noedit=true noback=true %}
-
-{% if site.data.carbon.enabled %}
-  <div class='SideAd' role='complementary'>
-    <script async src='{{ site.data.carbon.src }}' id="_carbonads_js"></script>
-  </div>
-{% endif %}
 
 <div class='body-area -slim'>
   <div class='site-header' role='banner'>
@@ -31,11 +25,6 @@
 
     {% include 2017/search-form.html live=true %}
 
-    {% if site.data.codefund.enabled %}
-    <div class='adbox' role='complementary'>
-      {% include 2017/codefund.html %}
-    </div>
-    {% endif %}
   </div>
 
   <div class='pages-list' role='main'>
@@ -71,7 +60,7 @@
     <div class='message item missing-message'>
       <h3>See something missing?</h3>
       <p>
-        <a class='push-button' href='{{ site.github.repository_url }}/issues/'>Request cheatsheet</a>
+        <a class='push-button' href='{{ site.github.repository_url }}/pulls'>Request cheatsheet</a>
       </p>
     </div>
   </div>
