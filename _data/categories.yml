@@ -1,7 +1,7 @@
 enabled: true
 names:
+  - Linux Kernel Exploitation
   - Kubernetes
   - Docker
   - Git
-  - Linux Kernel
   - Others
