@@ -71,7 +71,7 @@
   "url": "/kernel-heap-spray-structure",
   "category": "Linux Kernel Exploitation",
   "keywords": null,
-  "content_html": "<h3 id=\"setxattr\"><code>setxattr</code></h3>\n<pre><code class=\"language-yml\">setxattr + userfaultfd\n(TODO)\n</code></pre>\n\n<h3 id=\"sendmsg\"><code>sendmsg</code></h3>\n<pre><code class=\"language-yml\">(TODO)\n</code></pre>\n\n<h2 id=\"msg_msg\"><code>msg_msg</code></h2>\n<pre><code class=\"language-yml\">(TODO)\n</code></pre>\n\n<h2 id=\"reference\">Reference</h2>\n<ul>\n  <li><a href=\"#\">#</a></li>\n</ul>",
+  "content_html": "<h3 id=\"setxattr\"><code>setxattr</code></h3>\n<pre><code class=\"language-yml\">setxattr + userfaultfd\n(TODO)\n</code></pre>\n\n<h3 id=\"sendmsg\"><code>sendmsg</code></h3>\n<pre><code class=\"language-yml\">(TODO)\n</code></pre>\n\n<h3 id=\"msg_msg\"><code>msg_msg</code></h3>\n<pre><code class=\"language-yml\">(TODO)\n</code></pre>\n\n<h2 id=\"reference\">Reference</h2>\n<ul>\n  <li><a href=\"#\">#</a></li>\n</ul>",
   "intro_html": "",
   "description_html": "",
   "tags": null,
