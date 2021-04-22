@@ -1,5 +1,5 @@
 # Cheatsheets
-
+Pull requests are welcome.
 
 ## License
 
